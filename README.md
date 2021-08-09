@@ -13,7 +13,7 @@ Slides for my talks are available [here](https://benjaminpope.github.io/talks).
 I've contributed to a number of open-source packages for physics, such as 
 
 - [morphine](https://github.com/benjaminpope/morphine), a physical optics simulation library forked from [poppy](https://github.com/mperrin/poppy) using [Jax](https://github.com/google/jax) for audodiff
-	- docs[here](https://benjaminpope.github.io/morphine/)!
+	- docs [here](https://benjaminpope.github.io/morphine/)!
 	- papers at [arXiv:2011.09780](https://arxiv.org/abs/2011.09780) and [arXiv:2107.00952](https://arxiv.org/abs/2107.00952)
 - [halophot](https://github.com/hvidy/halophot), a pipeline for extracting precise photometry from even very saturated K2 and TESS data
     - Papers at [arXiv:1708.07462](https://arxiv.org/abs/1708.07462) and [arXiv:1908.06981](https://arxiv.org/abs/1908.06981)

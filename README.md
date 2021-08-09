@@ -13,7 +13,15 @@ Slides for my talks are available [here](https://benjaminpope.github.io/talks).
 I've contributed to a number of open-source packages for physics, such as 
 
 - [morphine](https://github.com/benjaminpope/morphine), a physical optics simulation library forked from [poppy](https://github.com/mperrin/poppy) using [Jax](https://github.com/google/jax) for audodiff
-	- see docs [here](https://benjaminpope.github.io/morphine/)!
+	- docs[here](https://benjaminpope.github.io/morphine/)!
+	- papers at [arXiv:2011.09780](https://arxiv.org/abs/2011.09780) and [arXiv:2107.00952](https://arxiv.org/abs/2107.00952)
+- [halophot](https://github.com/hvidy/halophot), a pipeline for extracting precise photometry from even very saturated K2 and TESS data
+    - Papers at [arXiv:1708.07462](https://arxiv.org/abs/1708.07462) and [arXiv:1908.06981](https://arxiv.org/abs/1908.06981)
+- [keplersmear](https://github.com/benjaminpope/keplersmear), a pipeline for Kepler and K2 using collateral 'smear' data to recover missing lightcurves of bright stars
+    - papers at [arXiv:1510.00008](https://arxiv.org/abs/1510.00008) and [arXiv:1905.09831](https://arxiv.org/abs/1905.09831)
+- [ticktack](https://github.com/SharmaLlama/ticktack/), a carbon box modelling library for analysing tree ring radiocarbon data
+    - docs [here](https://sharmallama.github.io/ticktack/)
+- [inclinations](https://github.com/benjaminpope/inclinations), a simple tool using Stan to infer rotational inclinations from rotational period and projected velocity
 
 ## about me
 

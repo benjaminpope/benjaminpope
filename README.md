@@ -19,6 +19,8 @@ I've contributed to a number of open-source packages for physics, such as
     - papers at [arXiv:1708.07462](https://arxiv.org/abs/1708.07462) and [arXiv:1908.06981](https://arxiv.org/abs/1908.06981)
 - [keplersmear](https://github.com/benjaminpope/keplersmear), a pipeline for Kepler and K2 using collateral 'smear' data to recover missing lightcurves of bright stars
     - papers at [arXiv:1510.00008](https://arxiv.org/abs/1510.00008) and [arXiv:1905.09831](https://arxiv.org/abs/1905.09831)
+- [k2sc](https://github.com/OxES/k2sc), a pipeline for calibrating K2 photometry using Gaussian Processes
+    - paper at [arXiv:1603.09167](https://arxiv.org/abs/1603.09167)
 - [ticktack](https://github.com/SharmaLlama/ticktack/), a carbon box modelling library for analysing tree ring radiocarbon data
     - docs [here](https://sharmallama.github.io/ticktack/)
 - [inclinations](https://github.com/benjaminpope/inclinations), a simple tool using Stan to infer rotational inclinations from rotational period and projected velocity

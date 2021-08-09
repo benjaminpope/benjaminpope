@@ -8,7 +8,7 @@ Currently, I'm working on a survey of naked-eye stars in Kepler, K2, and TESS, t
 
 Slides for my talks are available [here](https://benjaminpope.github.io/talks).
 
-## some repos of interest
+## some repos 
 
 I've contributed to a number of open-source packages for physics, such as 
 

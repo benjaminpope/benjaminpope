@@ -6,7 +6,7 @@ I'm a Lecturer in Astrophysics and DECRA Fellow at the [University of Queensland
 
 I research extrasolar planets - planets around other stars - and focus on developing and applying new data science approaches for detecting and characterizing them.
 
-Currently, I'm working on a survey of naked-eye stars in Kepler, K2, and TESS, to search for transiting planets. I'm also interested in exoplanet direct imaging, as well as using radio astronomy to study planets' magnetic interactions with their host stars.
+Currently, I'm working on exoplanet direct imaging with JWST Aperture Masking Interferometry; a survey of naked-eye stars in Kepler, K2, and TESS, to search for transiting planets. I'm also interested in using radio astronomy to study planets' magnetic interactions with their host stars, and modelling radiocarbon in tree rings as a tracer of ancient solar activity.
 
 Slides for my talks are available [here](https://benjaminpope.github.io/talks).
 
@@ -15,9 +15,9 @@ Slides for my talks are available [here](https://benjaminpope.github.io/talks).
 I've contributed to a number of open-source packages for physics, such as 
 
 - [dLux](https://github.com/LouisDesdoigts/dLux), a Jax & [equinox](https://github.com/patrick-kidger/equinox/) library for differentiable, GPU accelerated physical optics
-	- dLux is a full rewrite of [morphine](https://github.com/benjaminpope/morphine), a physical optics simulation library forked from [poppy](https://github.com/mperrin/poppy) using [Jax](https://github.com/google/jax) for autodiff
-	- docs [here](https://benjaminpope.github.io/morphine/)!
+	- docs [here](https://louisdesdoigts.github.io/dLux)!
 	- papers at [arXiv:2011.09780](https://arxiv.org/abs/2011.09780) and [arXiv:2107.00952](https://arxiv.org/abs/2107.00952)
+	- dLux is a full rewrite of [morphine](https://github.com/benjaminpope/morphine), a physical optics simulation library forked from [poppy](https://github.com/mperrin/poppy) using [Jax](https://github.com/google/jax) for autodiff
 - [ticktack](https://github.com/SharmaLlama/ticktack/), a carbon box modelling library for analysing tree ring radiocarbon data
     - docs [here](https://sharmallama.github.io/ticktack/)
 - [halophot](https://github.com/hvidy/halophot), a pipeline for extracting precise photometry from even very saturated K2 and TESS data
@@ -27,7 +27,6 @@ I've contributed to a number of open-source packages for physics, such as
 - [k2sc](https://github.com/OxES/k2sc), a pipeline for calibrating K2 photometry using Gaussian Processes
     - paper at [arXiv:1603.09167](https://arxiv.org/abs/1603.09167)
     - docs [here](https://oxes.github.io/k2sc/)
-- [inclinations](https://github.com/benjaminpope/inclinations), a simple tool using Stan to infer rotational inclinations from rotational period and projected velocity
 
 ## about me
 

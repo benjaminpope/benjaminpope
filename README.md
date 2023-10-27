@@ -2,7 +2,7 @@
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [email](b.pope@uq.edu.au) or Twitter [@fringetracker](https://twitter.com/fringetracker)
 
-I'm a Lecturer in Astrophysics and DECRA Fellow at the [University of Queensland](https://www.uq.edu.au/).
+I'm a Lecturer in Astrophysics and DECRA Fellow at the [University of Queensland](https://www.uq.edu.au/). Before this I was a NASA Sagan Fellow at NYU, and I did my DPhil at Balliol College, Oxford.
 
 I research extrasolar planets - planets around other stars - and focus on developing and applying new data science approaches for detecting and characterizing them.
 

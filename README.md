@@ -2,7 +2,7 @@
 - 😄 Pronouns: he/him
 - 📫 How to reach me: [email](b.pope@uq.edu.au) or Twitter [@fringetracker](https://twitter.com/fringetracker)
 
-I'm a Lecturer in Astrophysics and DECRA Fellow at the [University of Queensland](https://www.uq.edu.au/). Before this I was a NASA Sagan Fellow at NYU, and I did my DPhil at Balliol College, Oxford.
+I am an Associate Professor of Statistical Data Science at [Macquarie University](https://www.mq.edu.au/) in Sydney, leading an Astrostatistics Research Group. Before this, I was a Senior Lecturer in Astrophysics and ARC DECRA Fellow at the [University of Queensland](https://www.uq.edu.au/), a NASA Sagan Fellow at NYU, and I did my DPhil at Balliol College, Oxford.
 
 I research extrasolar planets - planets around other stars - and focus on developing and applying new data science approaches for detecting and characterizing them.
 
@@ -30,9 +30,7 @@ I've contributed to a number of open-source packages for physics, such as
 
 ## about me
 
-I'm from Sydney, and did my undergrad at the University of Sydney. I completed my doctorate in 2017 at Oxford, and from 2017-20 was a NASA Sagan Fellow at the NYU Center for Cosmology and Particle Physics and Center for Data Science. 
-
-
+I'm from Sydney, and did my undergrad at the University of Sydney. I completed my doctorate in 2017 at Oxford, and from 2017-20 was a NASA Sagan Fellow at the NYU Center for Cosmology and Particle Physics and Center for Data Science. From 2021-2024 I was an ARC DECRA Fellow and a Lecturer, then Senior Lecturer, at the University of Queensland in Brisbane.
 
 <!--
 **benjaminpope/benjaminpope** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

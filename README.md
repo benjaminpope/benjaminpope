@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ben
 - 😄 Pronouns: he/him
-- 📫 How to reach me: [email](b.pope@uq.edu.au), BlueSky [@fringetracker.bsky.social](https://fringetracker.bsky.social), or Twitter [@fringetracker](https://twitter.com/fringetracker)
+- 📫 How to reach me: [email](benjamin.pope@mq.edu.au) or BlueSky [@fringetracker.bsky.social](https://fringetracker.bsky.social)
 
 I am an Associate Professor of Statistical Data Science at [Macquarie University](https://www.mq.edu.au/) in Sydney, leading an Astrostatistics Research Group. Before this, I was a Senior Lecturer in Astrophysics and ARC DECRA Fellow at the [University of Queensland](https://www.uq.edu.au/), a NASA Sagan Fellow at NYU, and I did my DPhil at Balliol College, Oxford.
 
